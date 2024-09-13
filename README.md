@@ -1,4 +1,5 @@
-<img src"https://github.com/user-attachments/assets/8195a849-dfca-4621-a1fd-97d95b2b9b10.png">
+<image src"https://github.com/user-attachments/assets/8195a849-dfca-4621-a1fd-97d95b2b9b10.png">
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
