@@ -22,21 +22,26 @@ Navigate to Your Project Directory
 
 Change to the directory where your project is located:
 
--bash-
+```bash
 cd path/to/your/project
+```
 Install the Speech Synthesis Library
 
 Add the System.Speech NuGet package to your project. You can use the .NET CLI for this:
 
--bash-
+```bash
+```
 dotnet add package System.Speech
 Alternatively, if you prefer using the NuGet CLI, you can run:
 
--bash-
+```bash
 nuget install System.Speech
+```
+
 If you are using Visual Studio, you can install the package via the Package Manager Console:
 
--bash-
+```bash
 Install-Package System.Speech
+```
 
 ## THAT'S ALL! AJAA!
